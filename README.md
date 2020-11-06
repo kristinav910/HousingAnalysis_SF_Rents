@@ -15,3 +15,4 @@ Plots included: <br>
 Dashboard notebook includes a mapping of the sales data by neighborhood, Yearly analysis, detailed neighborhood analysis, and paralell plot and category analysis to quickly view the status of the market.
 Panel dashboard is servable for usage in a website. 
 
+* Note - the API keys are saved as secrets in this repository
